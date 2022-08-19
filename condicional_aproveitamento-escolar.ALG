@@ -1,4 +1,4 @@
-Algoritmo "aproveitamento_escolar"
+Algoritmo "condicional_aproveitament-escolar"
 
 Var
    nome: caractere

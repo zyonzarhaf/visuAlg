@@ -1,4 +1,4 @@
-Algoritmo "Soma#funcao"
+Algoritmo "funcao_soma"
 var
    V1, V2, S: Inteiro
    

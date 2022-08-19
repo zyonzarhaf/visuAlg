@@ -1,4 +1,4 @@
-Algoritmo "procedimento_par_ou_impar"
+Algoritmo "procedimento_par-ou-impar"
 
 Var
    N: Inteiro

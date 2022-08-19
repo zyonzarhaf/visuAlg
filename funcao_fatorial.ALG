@@ -1,4 +1,4 @@
-Algoritmo "Fatorial#Funcao"
+Algoritmo "funcao_fatorial"
 
 var
    N, F: Inteiro

@@ -1,4 +1,4 @@
-Algoritmo "super_contador"
+Algoritmo "repeticao_super-contador"
 
 Var
    resp, c: Inteiro

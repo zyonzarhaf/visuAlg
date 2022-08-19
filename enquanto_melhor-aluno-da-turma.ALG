@@ -1,4 +1,4 @@
-Algoritmo "melhor_aluno_da_turma"
+Algoritmo "enquanto_melhor-aluno-da-turma"
 
 Var
    qtd_alunos, contador: Inteiro
@@ -23,5 +23,5 @@ Inicio
           melhor_aluno <-nome_aluno
        FimSe
     FimEnquanto
-    Escreva("O melhor aluno foi ", melhor_aluno, " com a nota de ", maiornota)
+    Escreva("O melhor aluno foi ", melhor_aluno, " com a nota ", maiornota, ".")
 FimAlgoritmo

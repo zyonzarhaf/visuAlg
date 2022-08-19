@@ -1,4 +1,4 @@
-Algoritmo "reserva-de-assentos"
+Algoritmo "vetores_reserva-de-assentos"
 Var
    x, j: Inteiro
    aux: Caractere

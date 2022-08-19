@@ -1,4 +1,4 @@
-Algoritmo "analisador_de_valores"
+Algoritmo "condicional_analisador-de-valores"
 
 Var
    S, D5, N, SP, SP1, SP2, SP3, SP4, SP5, N1, N2, N3, N4, N5: Inteiro

@@ -1,4 +1,4 @@
-Algoritmo "SomaSimples"
+Algoritmo "soma"
 
 Var
    N1, N2, S: Inteiro

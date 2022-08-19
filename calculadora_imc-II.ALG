@@ -1,4 +1,4 @@
-Algoritmo "calculadora_imc_II"
+Algoritmo "calculadora_imc-II"
 
 Var
    M, A, IMC: Real

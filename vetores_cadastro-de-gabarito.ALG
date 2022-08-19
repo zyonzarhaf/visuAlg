@@ -1,6 +1,5 @@
 Algoritmo "vetores_cadastro-de-gabarito"
-//algoritmo destinado a cadastrar um gabarito, comparando-o com as respostas
-//de 03 alunos diferentes e apresentando a nota de cada um.
+
 Var
    x, y, z: Inteiro
    nota: Inteiro

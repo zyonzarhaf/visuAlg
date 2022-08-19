@@ -1,4 +1,4 @@
-Algoritmo "ParOuImparSE"
+Algoritmo "par-ou-impar"
 
 Var
    N: Inteiro

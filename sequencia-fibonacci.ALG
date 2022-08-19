@@ -1,4 +1,4 @@
-Algoritmo "sequencia_de_fibonacci"
+Algoritmo "sequencia-fibonacci"
 
 Var
    T1, T2, T3, C: Inteiro

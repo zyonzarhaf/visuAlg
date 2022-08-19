@@ -1,4 +1,4 @@
-Algoritmo "analise_de_partida"
+Algoritmo "escolha-caso_analise_de_partida"
 
 Var
    N1, N2, R: Inteiro

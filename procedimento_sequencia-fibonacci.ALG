@@ -1,4 +1,4 @@
-Algoritmo "procedimento_sequencia_fibonacci"
+Algoritmo "procedimento_sequencia-fibonacci"
 Var
    contador, T1,T2,T3: Inteiro
    

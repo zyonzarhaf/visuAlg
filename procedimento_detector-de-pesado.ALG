@@ -1,4 +1,4 @@
-Algoritmo "detector_pesado"
+Algoritmo "procedimento_detector-de-pesado"
 
 Var
     contador, M, Mai: Inteiro

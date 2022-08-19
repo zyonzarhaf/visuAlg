@@ -1,4 +1,4 @@
-Algoritmo "seletor_de_pessoas"
+Algoritmo "condicional_seletor-de-pessoas"
 
 Var
     sexo, resp: Caractere

@@ -1,4 +1,4 @@
-Algoritmo "Media"
+Algoritmo "media"
 
 Var
    N1, N2: Inteiro

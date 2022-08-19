@@ -1,4 +1,4 @@
-Algoritmo "calculadora_repeticao_maxima"
+Algoritmo "calculadora_repeticao-maxima"
 
 Var
    M, RM: Real

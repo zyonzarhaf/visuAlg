@@ -1,4 +1,4 @@
-Algoritmo "ParOuImpar"
+Algoritmo "funcao_par-ou-impar"
 var
    N: Inteiro
    R: Caractere

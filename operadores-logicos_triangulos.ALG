@@ -1,4 +1,4 @@
-Algoritmo "triangulos#operadoreslogicos"
+Algoritmo "operadores_logicos_triangulos"
 
 Var
    L1, L2, L3: Real
